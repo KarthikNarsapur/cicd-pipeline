@@ -1,4 +1,4 @@
-# Sample containerized Python application for cicd-pipeline
+# Sample containerized Python application for cicd-pipeline 
 
 This repo contains a sample application to deploy to k8s. The application is a simple HelloWorld app using Python and Flask framework.
 
