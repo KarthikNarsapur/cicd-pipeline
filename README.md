@@ -2,7 +2,7 @@
 
 This repo contains a sample application to deploy to k8s. The application is a simple HelloWorld app using Python and Flask framework.
 
-## Run with Docker
+## Run with Docker.
 
 ```bash
 $ docker build -f Dockerfile -t hello-python:latest .
